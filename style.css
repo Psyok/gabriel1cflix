@@ -11,6 +11,22 @@ body{
 }
 
 
+header{
+border-bottom:  solid 2px #6D0A0A;
+margin: 20px;
+color: #D4AF37;
+background: #121212;
+}
+
+section{
+padding-bottom: 80px;
+padding-top: 80px;
+background: #3A2E28;
+display: flex;
+justify-content: center;
+color: #E5D8C0;
+}
+
 h1{
     color:#D4AF37;
     font-size: 40px;
